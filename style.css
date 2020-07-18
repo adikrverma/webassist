@@ -1,6 +1,13 @@
 body {
   font-family: "Montserrat";
 }
+h1{
+  font-family: "concert one-light",cursive;
+  font-weight: bold;
+  font-size: 100px;
+  color:#0f3554;
+  padding-bottom: 40px;
+}
 h2{
   font-family: 'Josefin Slab', serif;
   font-size: 60px;

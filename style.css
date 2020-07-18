@@ -34,7 +34,7 @@ h4{
   font-size: 70px;
   font-weight: bold;
 }
-@media (min-width:5px) and (max-width:720px){
+@media (min-width:5px) and (max-width:768px){
   .lines{
     line-height: 2.2rem;
   }

@@ -47,6 +47,9 @@ h4{
   .col-lg-4{
     text-align: center;
   }
+  .second-last{
+    background-color: #a2d7db;
+  }
 }
 
 .navbar{

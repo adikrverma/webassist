@@ -87,6 +87,7 @@ padding: 0 18px;
 .first {
   background-color: #E0EBE8;
   margin-top: 76px;
+  padding-bottom:100px;
 }
 
 .logo {
@@ -96,7 +97,8 @@ padding: 0 18px;
 
 .web {
   margin-top: 50px;
-  width: 700px;
+  width: 100%;
+  height:auto;
   margin-bottom: 40px;
   border-radius: 5%;
   box-shadow: 10px 10px 5px grey;

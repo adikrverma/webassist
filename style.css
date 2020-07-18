@@ -1,0 +1,147 @@
+body {
+  font-family: "Montserrat";
+}
+h2{
+  font-family: 'Josefin Slab', serif;
+  font-size: 60px;
+  color:#0f3554;
+  font-weight: bold;
+}
+h3{
+  font-family: "Montserrat-light";
+  font-size: 40px;
+  font-weight: 400;
+}
+hr{
+  margin: 50px auto 50px;
+  color: #3d9da3;
+  width:15%;
+  border-style: dotted;
+  border-width: 15px;
+  border-top:0;
+  border-right:0;
+  border-left: 0;
+}
+h4{
+  font-family: 'Josefin Slab', serif;
+  font-size: 70px;
+  font-weight: bold;
+}
+.center {
+  padding: 3% 10%;
+  background-color: #E0EBE8;
+}
+
+.navbar{
+  padding-right:5rem;
+}
+
+.nav-item{
+padding: 0 18px;
+}
+
+.nav-link{
+  font-size: 1.4rem;
+  font-family: "Montserrat-light";
+}
+
+.webassist {
+  width: 300px;
+}
+
+.first {
+  background-color: #E0EBE8;
+  margin-top: 76px;
+}
+
+.logo {}
+
+.web {
+  margin-top: 50px;
+  width: 700px;
+  margin-bottom: 40px;
+  border-radius: 5%;
+  box-shadow: 10px 10px 5px grey;
+}
+
+.hey {
+  color: #0f3554;
+  text-align: right;
+  font-family: 'Concert One', cursive;
+  font-size: 400%;
+  margin-top: -30px;
+  margin-right: 100px;
+}
+
+.first-line {
+  margin-bottom: -2rem;
+  margin-top: 2rem;
+  margin-left: -35px;
+}
+.lines:hover{
+  color: grey;
+}
+
+.i {
+  color: #3d9da3;
+  text-align: right;
+  font-family: 'Work Sans', sans-serif;
+  font-size: 150%;
+  margin-right: 100px;
+  margin-bottom: 75px;
+}
+
+.contact {
+  padding: 50px;
+  text-align: center;
+}
+
+.btn {
+  background: #326d94;
+  background-image: -webkit-linear-gradient(top, #326d94, #11999e);
+  background-image: -moz-linear-gradient(top, #326d94, #11999e);
+  background-image: -ms-linear-gradient(top, #326d94, #11999e);
+  background-image: -o-linear-gradient(top, #326d94, #11999e);
+  background-image: linear-gradient(to bottom, #326d94, #11999e);
+  -webkit-border-radius: 10;
+  -moz-border-radius: 10;
+  border-radius: 10px;
+  font-family: 'Montserrat', sans-serif;
+  color: #ffffff;
+  font-size: 20px;
+  padding: 10px 20px 10px 20px;
+  text-decoration: none;
+}
+.cent{
+  text-align: center;
+}
+.about{
+  height:150px;
+}
+.second{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.second:hover{
+  background-color: #E0E0E0;
+}
+.second-last{
+  padding: 50px;
+  text-align: center;
+}
+.third-last{
+  font-size: 30px;
+ margin:0 25% 0 25%;
+}
+.last{
+  padding-top: 15px;
+  text-align: center;
+  background-color: #a2d7db;
+}
+.link{
+  padding: 30px;
+}
+.last-line{
+  padding: 20px;
+  margin-bottom: 0px;
+}

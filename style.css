@@ -34,13 +34,30 @@ h4{
   font-size: 70px;
   font-weight: bold;
 }
-@media (min-width:480px){
+@media (min-width:5px) and (max-width:720px){
   .lines{
     line-height: 2.2rem;
   }
+  .hey{
+    text-align: center;
+  }
+  .i{
+    text-align: center;
+  }
+  .col-lg-4{
+    text-align: center;
+  }
 }
 
+.navbar{
+  padding-left: 5rem;
+  padding-right: 5rem;
+}
 
+.col-lg-4
+{
+  text-align: center;
+}
 .wrap{
   width:80%;
   margin: 0 auto;
@@ -69,7 +86,10 @@ padding: 0 18px;
   margin-top: 76px;
 }
 
-.logo {}
+.logo {
+  margin-top: 50px;
+  margin-left: 35px;
+}
 
 .web {
   margin-top: 50px;
